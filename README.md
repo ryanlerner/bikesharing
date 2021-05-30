@@ -5,7 +5,7 @@ This analysis is intended to visualize bike-sharing data from New York City in o
 
 ## Results
 The visualizations based on the biking data are shown below:
-[Resources/Tableau1]("Resources/Tableau1.png")
+![Resources/Tableau1]("Resources/Tableau1.png")
 
 ## Summary
 Based on these charts, we can conclude that a vast majority of people in NYC using Citibikes are doing so for commuting purposes, given that peak hours occur when "9 to 5" jobs typically begin and end on weekdays. When separating these charts by gender, we can also see that a majority of these riders happen to be male. Additionally, many bike trips tend to be around 5-20 minutes long, which means that bike stations in Des Moines would need to be relatively close together to account for these shorter trip durations. '
