@@ -1,5 +1,7 @@
 # bikesharing
 
+Click here to view the story on Tableau Public: [NYC Citibike Analysis](https://public.tableau.com/app/profile/ryan.lerner/viz/Tableau_Challenge_16222037199940/Story1)
+
 ## Overview of Analysis
 This analysis is intended to visualize bike-sharing data from New York City in order to predict whether a similar model might be successful in Des Moines, Iowa. Based on the dataset, we plotted linegraphs, bar charts, and heatmaps to view average biking duration and trends between gender and peak biking hours. 
 
